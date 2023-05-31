@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/DevDan21/testimonial-grid-section.git)
+- Live Site URL: [Testimonial Grid Section] (https://devdan21.github.io/testimonial-grid-section/)
 
 ## My process
 
