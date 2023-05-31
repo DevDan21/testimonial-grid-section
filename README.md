@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/DevDan21/testimonial-grid-section.git)
-- Live Site URL: [Testimonial Grid Section] (https://devdan21.github.io/testimonial-grid-section/)
+- Live Site URL: [TestimonialGridSection] (https://devdan21.github.io/testimonial-grid-section/)
 
 ## My process
 
